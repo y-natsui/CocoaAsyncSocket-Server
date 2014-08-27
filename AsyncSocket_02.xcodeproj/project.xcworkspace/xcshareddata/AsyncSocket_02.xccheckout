@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>A8C10F5D-03F6-4AD8-B148-F7DB50E39679</string>
+	<key>IDESourceControlProjectName</key>
+	<string>AsyncSocket_02</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>6FA3B463-5312-419D-8388-256D99E61FE0</key>
+		<string>https://github.com/y-natsui/CocoaAsyncSocket-Server.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>AsyncSocket_02.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>6FA3B463-5312-419D-8388-256D99E61FE0</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/y-natsui/CocoaAsyncSocket-Server.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>6FA3B463-5312-419D-8388-256D99E61FE0</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>6FA3B463-5312-419D-8388-256D99E61FE0</string>
+			<key>IDESourceControlWCCName</key>
+			<string>CocoaAsyncSocket-Server</string>
+		</dict>
+	</array>
+</dict>
+</plist>

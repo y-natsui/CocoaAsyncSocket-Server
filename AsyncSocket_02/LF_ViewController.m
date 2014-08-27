@@ -53,8 +53,8 @@
     NSLog(@"接続が完了しました");
     
     [connectedSockets addObject:newSocket];
-    [newSocket readDataWithTimeout:-1 tag:0];
-    [newSocket readDataToData:[GCDAsyncSocket CRLFData] withTimeout:-1 tag:0];
+    [newSocket readDataWithTimeout:5 tag:0];
+    [newSocket readDataToData:[GCDAsyncSocket CRLFData] withTimeout:5 tag:0];
     
     
 }
